@@ -4,3 +4,5 @@ five
 seven
 
 --modified--
+
+--merge conflict test--
