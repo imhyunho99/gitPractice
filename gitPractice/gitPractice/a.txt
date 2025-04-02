@@ -6,3 +6,5 @@ seven
 --modified--
 
 --merge conflict 실험--
+
+--git commit on VScode--
